@@ -1,0 +1,15 @@
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\bin\Debug\Webbrowser Steuerelement.exe.config
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\bin\Debug\Webbrowser Steuerelement.exe
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\bin\Debug\Webbrowser Steuerelement.pdb
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement.g.resources
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement.exe
+D:\sandbox\WPF\Webbrowser Steuerelement\Webbrowser Steuerelement\obj\Debug\Webbrowser Steuerelement.pdb

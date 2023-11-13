@@ -1,0 +1,15 @@
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\bin\Debug\RichTextBox Steuerelement.exe.config
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\bin\Debug\RichTextBox Steuerelement.exe
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\bin\Debug\RichTextBox Steuerelement.pdb
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement.g.resources
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement.exe
+D:\sandbox\WPF\RichTextBox Steuerelement\RichTextBox Steuerelement\obj\Debug\RichTextBox Steuerelement.pdb

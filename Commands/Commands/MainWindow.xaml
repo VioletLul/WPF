@@ -1,0 +1,34 @@
+﻿<Window x:Class="Commands.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Commands"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+        <Button Command="local:MyCommand.Launch" 
+                Height="23" 
+                Width="75" 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top" 
+                Content="Mein Button" 
+                Margin="203,115,0,0">
+            <Button.CommandBindings>
+                <CommandBinding Command="{x:Static local:MyCommand.Launch}"
+                                Executed="Launch_Handler"
+                                CanExecute="LaunchEnabled_Handler"></CommandBinding>
+            </Button.CommandBindings>
+        </Button>
+        
+        <CheckBox Content="Command Aktiv" 
+                  Height="16" 
+                  HorizontalAlignment="Left" 
+                  Margin="203,84,0,0" 
+                  Name="CheckBox1" 
+                  VerticalAlignment="Top" 
+                  Width="118" />
+        
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\sandbox\WPF\Radiobutton\Radiobutton\bin\Debug\Radiobutton.exe.config
+D:\sandbox\WPF\Radiobutton\Radiobutton\bin\Debug\Radiobutton.exe
+D:\sandbox\WPF\Radiobutton\Radiobutton\bin\Debug\Radiobutton.pdb
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\App.g.cs
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton_MarkupCompile.cache
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton_MarkupCompile.lref
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.g.resources
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.Properties.Resources.resources
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.csproj.GenerateResource.cache
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.exe
+D:\sandbox\WPF\Radiobutton\Radiobutton\obj\Debug\Radiobutton.pdb

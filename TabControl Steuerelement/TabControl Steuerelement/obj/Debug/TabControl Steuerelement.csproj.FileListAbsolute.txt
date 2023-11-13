@@ -1,0 +1,18 @@
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\bin\Debug\TabControl Steuerelement.exe.config
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\bin\Debug\TabControl Steuerelement.exe
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\bin\Debug\TabControl Steuerelement.pdb
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement.g.resources
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement.exe
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\TabControl Steuerelement.pdb
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\UserControl.g.cs
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\sandbox\WPF\TabControl Steuerelement\TabControl Steuerelement\obj\Debug\UserControl.baml

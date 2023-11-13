@@ -1,0 +1,40 @@
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.exe
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.deps.json
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.pdb
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.g.resources
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\refint\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.pdb
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\Menu Steuerelement\Menü Steuerelement\obj\Debug\net7.0-windows\ref\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.exe
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.deps.json
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\bin\Debug\net7.0-windows\Menu Steuerelement.pdb
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.g.resources
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\refint\Menu Steuerelement.dll
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.pdb
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\Menu Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\Menu Steuerelement\Menu Steuerelement\obj\Debug\net7.0-windows\ref\Menu Steuerelement.dll

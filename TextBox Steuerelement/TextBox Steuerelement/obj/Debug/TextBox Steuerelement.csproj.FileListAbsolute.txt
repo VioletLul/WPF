@@ -1,0 +1,15 @@
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\bin\Debug\TextBox Steuerelement.exe.config
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\bin\Debug\TextBox Steuerelement.exe
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\bin\Debug\TextBox Steuerelement.pdb
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement.g.resources
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement.exe
+D:\sandbox\WPF\TextBox Steuerelement\TextBox Steuerelement\obj\Debug\TextBox Steuerelement.pdb

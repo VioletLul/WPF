@@ -1,0 +1,21 @@
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\bin\Debug\net7.0-windows\Eigene Routed Events.exe
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\bin\Debug\net7.0-windows\Eigene Routed Events.deps.json
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\bin\Debug\net7.0-windows\Eigene Routed Events.runtimeconfig.json
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\bin\Debug\net7.0-windows\Eigene Routed Events.dll
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\bin\Debug\net7.0-windows\Eigene Routed Events.pdb
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events_MarkupCompile.cache
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events_MarkupCompile.lref
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.g.resources
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.AssemblyInfo.cs
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.dll
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\refint\Eigene Routed Events.dll
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.pdb
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\Eigene Routed Events.genruntimeconfig.cache
+D:\sandbox\WPF\Eigene Routed Events\Eigene Routed Events\obj\Debug\net7.0-windows\ref\Eigene Routed Events.dll

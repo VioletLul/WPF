@@ -1,0 +1,18 @@
+﻿<Window x:Class="ComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox Width="200" Height="22" ItemsSource="{Binding Persons}" IsEditable="True">
+            <!--<ComboBoxItem>Violet</ComboBoxItem>
+            <ComboBoxItem>Yelan</ComboBoxItem>
+            <Button Content="Test"></Button>
+            <TextBlock Text="Test"></TextBlock> 
+            <TextBox Width="150"></TextBox>-->
+        </ComboBox>
+    </Grid>
+</Window>

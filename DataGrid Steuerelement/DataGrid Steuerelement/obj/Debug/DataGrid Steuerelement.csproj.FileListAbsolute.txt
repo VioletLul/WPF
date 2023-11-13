@@ -1,0 +1,15 @@
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\bin\Debug\DataGrid Steuerelement.exe.config
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\bin\Debug\DataGrid Steuerelement.exe
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\bin\Debug\DataGrid Steuerelement.pdb
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement.g.resources
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement.exe
+D:\sandbox\WPF\DataGrid Steuerelement\DataGrid Steuerelement\obj\Debug\DataGrid Steuerelement.pdb

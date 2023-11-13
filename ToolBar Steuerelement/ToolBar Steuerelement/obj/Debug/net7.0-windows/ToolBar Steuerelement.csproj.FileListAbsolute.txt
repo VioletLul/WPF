@@ -1,0 +1,20 @@
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\bin\Debug\net7.0-windows\ToolBar Steuerelement.exe
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\bin\Debug\net7.0-windows\ToolBar Steuerelement.deps.json
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\bin\Debug\net7.0-windows\ToolBar Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\bin\Debug\net7.0-windows\ToolBar Steuerelement.dll
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\bin\Debug\net7.0-windows\ToolBar Steuerelement.pdb
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.g.resources
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.dll
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\refint\ToolBar Steuerelement.dll
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.pdb
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ToolBar Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\ToolBar Steuerelement\ToolBar Steuerelement\obj\Debug\net7.0-windows\ref\ToolBar Steuerelement.dll

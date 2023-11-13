@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="DependencyProperties.FileInputBox"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Name="root">
+	
+	<Grid>
+		<StackPanel Orientation="Horizontal">
+			<TextBlock Name="TxtFileName" Background="BlanchedAlmond" Text="{Binding FileName, ElementName=root}" Width="300" Height="25"></TextBlock>
+			<Button Name="BtnSelectFile" Content="Öffnen..." Width="100" Height="20" Click="BtnSelectFile_OnClick"></Button>
+		</StackPanel>
+	</Grid>
+</UserControl>

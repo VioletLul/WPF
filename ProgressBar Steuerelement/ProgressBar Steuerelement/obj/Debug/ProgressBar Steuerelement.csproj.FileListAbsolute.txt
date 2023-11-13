@@ -1,0 +1,15 @@
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\bin\Debug\ProgressBar Steuerelement.exe.config
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\bin\Debug\ProgressBar Steuerelement.exe
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\bin\Debug\ProgressBar Steuerelement.pdb
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement.g.resources
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement.exe
+D:\sandbox\WPF\ProgressBar Steuerelement\ProgressBar Steuerelement\obj\Debug\ProgressBar Steuerelement.pdb

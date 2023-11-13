@@ -1,0 +1,20 @@
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\bin\Debug\net7.0-windows\PopUp Steuerelement.exe
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\bin\Debug\net7.0-windows\PopUp Steuerelement.deps.json
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\bin\Debug\net7.0-windows\PopUp Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\bin\Debug\net7.0-windows\PopUp Steuerelement.dll
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\bin\Debug\net7.0-windows\PopUp Steuerelement.pdb
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.g.resources
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.dll
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\refint\PopUp Steuerelement.dll
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.pdb
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\PopUp Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\PopUp Steuerelement\PopUp Steuerelement\obj\Debug\net7.0-windows\ref\PopUp Steuerelement.dll

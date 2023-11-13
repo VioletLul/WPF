@@ -1,0 +1,20 @@
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\bin\Debug\net7.0-windows\Context Menü Steuerelement.exe
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\bin\Debug\net7.0-windows\Context Menü Steuerelement.deps.json
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\bin\Debug\net7.0-windows\Context Menü Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\bin\Debug\net7.0-windows\Context Menü Steuerelement.dll
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\bin\Debug\net7.0-windows\Context Menü Steuerelement.pdb
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.g.resources
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.dll
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\refint\Context Menü Steuerelement.dll
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.pdb
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\Context Menü Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\Context Menü Steuerelement\Context Menü Steuerelement\obj\Debug\net7.0-windows\ref\Context Menü Steuerelement.dll

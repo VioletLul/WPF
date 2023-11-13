@@ -1,0 +1,23 @@
+﻿<Window x:Class="Grundelemente.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grundelemente"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Name="btn1" Width="200" Height="20" Background="Aquamarine" BorderBrush="Purple" BorderThickness="1" Click="btn1_Click" ClickMode="Hover">
+            HoverOverMe~
+        </Button>
+        <Button Name="btn2" Width="200" Height="20" Background="PowderBlue" BorderBrush="Black" BorderThickness="1" Click="btn2_Click" ClickMode="Press">
+            ClickOnMe~
+        </Button>
+        <Button Name="btn3" Width="200" Height="40" Click="btn3_Click" ClickMode="Release">
+            <StackPanel>
+                <Image Height="20" Source="AddImage.png" />
+                <TextBlock>Reset~</TextBlock>
+            </StackPanel>
+        </Button>
+    </StackPanel>
+</Window>

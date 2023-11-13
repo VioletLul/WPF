@@ -1,0 +1,21 @@
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\bin\Debug\net7.0-windows\DataBinding an Collections.exe
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\bin\Debug\net7.0-windows\DataBinding an Collections.deps.json
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\bin\Debug\net7.0-windows\DataBinding an Collections.runtimeconfig.json
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\bin\Debug\net7.0-windows\DataBinding an Collections.dll
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\bin\Debug\net7.0-windows\DataBinding an Collections.pdb
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections_MarkupCompile.cache
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections_MarkupCompile.lref
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.g.resources
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.AssemblyInfoInputs.cache
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.AssemblyInfo.cs
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.dll
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\refint\DataBinding an Collections.dll
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.pdb
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\DataBinding an Collections.genruntimeconfig.cache
+D:\sandbox\WPF\DataBinding an Collections\DataBinding an Collections\obj\Debug\net7.0-windows\ref\DataBinding an Collections.dll

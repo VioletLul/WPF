@@ -1,0 +1,16 @@
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\bin\Debug\Media Steuerelement.exe.config
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\bin\Debug\Media Steuerelement.exe
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\bin\Debug\Media Steuerelement.pdb
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement.g.resources
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement.exe
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement.pdb
+D:\sandbox\WPF\Media Steuerelement\Media Steuerelement\obj\Debug\Media Steuerelement_Content.g.cs

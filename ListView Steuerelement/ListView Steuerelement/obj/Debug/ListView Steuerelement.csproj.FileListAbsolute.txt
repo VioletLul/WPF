@@ -1,0 +1,15 @@
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\bin\Debug\ListView Steuerelement.exe.config
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\bin\Debug\ListView Steuerelement.exe
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\bin\Debug\ListView Steuerelement.pdb
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement.g.resources
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement.exe
+D:\sandbox\WPF\ListView Steuerelement\ListView Steuerelement\obj\Debug\ListView Steuerelement.pdb

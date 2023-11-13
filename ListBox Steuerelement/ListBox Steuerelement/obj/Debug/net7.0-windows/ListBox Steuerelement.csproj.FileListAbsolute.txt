@@ -1,0 +1,20 @@
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\bin\Debug\net7.0-windows\ListBox Steuerelement.exe
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\bin\Debug\net7.0-windows\ListBox Steuerelement.deps.json
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\bin\Debug\net7.0-windows\ListBox Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\bin\Debug\net7.0-windows\ListBox Steuerelement.dll
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\bin\Debug\net7.0-windows\ListBox Steuerelement.pdb
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.g.resources
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.dll
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\refint\ListBox Steuerelement.dll
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.pdb
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ListBox Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\ListBox Steuerelement\ListBox Steuerelement\obj\Debug\net7.0-windows\ref\ListBox Steuerelement.dll

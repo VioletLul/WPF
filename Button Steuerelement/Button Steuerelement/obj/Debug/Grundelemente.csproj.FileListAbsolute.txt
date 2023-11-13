@@ -1,0 +1,15 @@
+D:\sandbox\WPF\Grundelemente\Grundelemente\bin\Debug\Grundelemente.exe.config
+D:\sandbox\WPF\Grundelemente\Grundelemente\bin\Debug\Grundelemente.exe
+D:\sandbox\WPF\Grundelemente\Grundelemente\bin\Debug\Grundelemente.pdb
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\App.g.cs
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente_MarkupCompile.cache
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente_MarkupCompile.lref
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.g.resources
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.Properties.Resources.resources
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.csproj.GenerateResource.cache
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.exe
+D:\sandbox\WPF\Grundelemente\Grundelemente\obj\Debug\Grundelemente.pdb

@@ -1,0 +1,15 @@
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\bin\Debug\Slider Steuerelement.exe.config
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\bin\Debug\Slider Steuerelement.exe
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\bin\Debug\Slider Steuerelement.pdb
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement.g.resources
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement.exe
+D:\sandbox\WPF\Slider Steuerelement\Slider Steuerelement\obj\Debug\Slider Steuerelement.pdb

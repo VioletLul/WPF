@@ -1,0 +1,21 @@
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\bin\Debug\net7.0-windows\TreeViw Steuerelement.exe
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\bin\Debug\net7.0-windows\TreeViw Steuerelement.deps.json
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\bin\Debug\net7.0-windows\TreeViw Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\bin\Debug\net7.0-windows\TreeViw Steuerelement.dll
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\bin\Debug\net7.0-windows\TreeViw Steuerelement.pdb
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.g.resources
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.dll
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\refint\TreeViw Steuerelement.dll
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.pdb
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\TreeViw Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\ref\TreeViw Steuerelement.dll
+D:\sandbox\WPF\TreeViw Steuerelement\TreeViw Steuerelement\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs

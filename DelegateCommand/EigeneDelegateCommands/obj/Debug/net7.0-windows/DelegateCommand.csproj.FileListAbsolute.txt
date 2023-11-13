@@ -1,0 +1,4 @@
+D:\sandbox\WPF\DelegateCommand\DelegateCommand\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\DelegateCommand\DelegateCommand\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\DelegateCommand\DelegateCommand\obj\Debug\net7.0-windows\DelegateCommand_MarkupCompile.cache
+D:\sandbox\WPF\DelegateCommand\DelegateCommand\obj\Debug\net7.0-windows\DelegateCommand_MarkupCompile.lref

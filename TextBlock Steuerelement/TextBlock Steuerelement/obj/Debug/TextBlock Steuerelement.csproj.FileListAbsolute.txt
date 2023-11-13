@@ -1,0 +1,15 @@
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\bin\Debug\TextBlock Steuerelement.exe.config
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\bin\Debug\TextBlock Steuerelement.exe
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\bin\Debug\TextBlock Steuerelement.pdb
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement.g.resources
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement.exe
+D:\sandbox\WPF\TextBlock Steuerelement\TextBlock Steuerelement\obj\Debug\TextBlock Steuerelement.pdb

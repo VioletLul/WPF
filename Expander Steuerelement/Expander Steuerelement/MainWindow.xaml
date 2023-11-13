@@ -1,0 +1,18 @@
+﻿<Window x:Class="Expander_Steuerelement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Expander_Steuerelement"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Expander Header="Weitere Optionen">
+            <StackPanel Margin="10,4,0,0">
+                <CheckBox Margin="4" Content="Option1"></CheckBox>
+                <CheckBox Margin="4" Content="Option2"></CheckBox>
+                <CheckBox Margin="4" Content="Option3"></CheckBox>
+            </StackPanel>
+        </Expander>
+    </Grid>
+</Window>

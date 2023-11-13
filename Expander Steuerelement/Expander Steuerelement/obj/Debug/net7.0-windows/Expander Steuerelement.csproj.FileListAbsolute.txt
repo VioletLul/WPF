@@ -1,0 +1,20 @@
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\bin\Debug\net7.0-windows\Expander Steuerelement.exe
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\bin\Debug\net7.0-windows\Expander Steuerelement.deps.json
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\bin\Debug\net7.0-windows\Expander Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\bin\Debug\net7.0-windows\Expander Steuerelement.dll
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\bin\Debug\net7.0-windows\Expander Steuerelement.pdb
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.g.resources
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.dll
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\refint\Expander Steuerelement.dll
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.pdb
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\Expander Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\Expander Steuerelement\Expander Steuerelement\obj\Debug\net7.0-windows\ref\Expander Steuerelement.dll

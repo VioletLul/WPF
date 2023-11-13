@@ -1,0 +1,31 @@
+﻿<Window x:Class="ToolBar_Steuerelement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolBar_Steuerelement"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ToolBarTray Background="Lavender" VerticalAlignment="Top">
+            <ToolBar Band="1" BandIndex="1" VerticalAlignment="Top" Background="#FF9b9bb7" ToolBarTray.IsLocked="True">
+                <Button>
+                    <StackPanel>
+                        <Image Visibility="Visible" Source="Save.png"></Image>
+                        <Label Content="Speichern" Foreground="White"></Label>
+                    </StackPanel>
+                </Button>
+                <Separator></Separator>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Label Content="_Suche" Foreground="White" Target="{Binding ElementName=CmbSuche}"></Label>
+                    <ComboBox Name="CmbSuche" Height="20" Width="100" IsEditable="True"></ComboBox>
+                </StackPanel>
+            </ToolBar>
+            <ToolBar Band="2" BandIndex="1" VerticalAlignment="Top" Background="#FF9b9bb7">
+                <Button Content="Test1"></Button>
+                <Button Content="Test2" ToolBar.OverflowMode="Always"></Button>
+            </ToolBar>
+        </ToolBarTray>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\bin\Debug\Calender Steuerelement.exe.config
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\bin\Debug\Calender Steuerelement.exe
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\bin\Debug\Calender Steuerelement.pdb
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement.g.resources
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement.exe
+D:\sandbox\WPF\Calender Steuerelement\Calender Steuerelement\obj\Debug\Calender Steuerelement.pdb

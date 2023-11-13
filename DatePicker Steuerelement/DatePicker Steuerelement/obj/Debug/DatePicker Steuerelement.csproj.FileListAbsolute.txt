@@ -1,0 +1,15 @@
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\bin\Debug\DatePicker Steuerelement.exe.config
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\bin\Debug\DatePicker Steuerelement.exe
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\bin\Debug\DatePicker Steuerelement.pdb
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement.g.resources
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement.exe
+D:\sandbox\WPF\DatePicker Steuerelement\DatePicker Steuerelement\obj\Debug\DatePicker Steuerelement.pdb

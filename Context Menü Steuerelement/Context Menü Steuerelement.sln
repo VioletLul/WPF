@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Context Menü Steuerelement", "Context Menü Steuerelement\Context Menü Steuerelement.csproj", "{A648B36C-4F0A-478C-BBE7-1D7B72D26A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A648B36C-4F0A-478C-BBE7-1D7B72D26A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A648B36C-4F0A-478C-BBE7-1D7B72D26A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A648B36C-4F0A-478C-BBE7-1D7B72D26A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A648B36C-4F0A-478C-BBE7-1D7B72D26A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

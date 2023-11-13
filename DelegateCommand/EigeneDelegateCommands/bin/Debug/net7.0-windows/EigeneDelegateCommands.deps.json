@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EigeneDelegateCommands/1.0.0": {
+        "runtime": {
+          "EigeneDelegateCommands.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EigeneDelegateCommands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

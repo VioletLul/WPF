@@ -1,0 +1,20 @@
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\bin\Debug\net7.0-windows\Vordefinierte Commands.exe
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\bin\Debug\net7.0-windows\Vordefinierte Commands.deps.json
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\bin\Debug\net7.0-windows\Vordefinierte Commands.runtimeconfig.json
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\bin\Debug\net7.0-windows\Vordefinierte Commands.dll
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\bin\Debug\net7.0-windows\Vordefinierte Commands.pdb
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands_MarkupCompile.cache
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands_MarkupCompile.lref
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.g.resources
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.AssemblyInfo.cs
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.dll
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\refint\Vordefinierte Commands.dll
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.pdb
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\Vordefinierte Commands.genruntimeconfig.cache
+D:\sandbox\WPF\Vordefinierte Commands\Vordefinierte Commands\obj\Debug\net7.0-windows\ref\Vordefinierte Commands.dll

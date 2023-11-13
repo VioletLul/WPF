@@ -1,0 +1,15 @@
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\bin\Debug\Image Steuerelement.exe.config
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\bin\Debug\Image Steuerelement.exe
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\bin\Debug\Image Steuerelement.pdb
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement.csproj.AssemblyReference.cache
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\MainWindow.g.cs
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\App.g.cs
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\MainWindow.baml
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement.g.resources
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image_Steuerelement.Properties.Resources.resources
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement.csproj.GenerateResource.cache
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement.exe
+D:\sandbox\WPF\Image Steuerelement\Image Steuerelement\obj\Debug\Image Steuerelement.pdb

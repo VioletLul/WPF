@@ -1,0 +1,20 @@
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\bin\Debug\net7.0-windows\StatusBar Steuerelement.exe
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\bin\Debug\net7.0-windows\StatusBar Steuerelement.deps.json
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\bin\Debug\net7.0-windows\StatusBar Steuerelement.runtimeconfig.json
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\bin\Debug\net7.0-windows\StatusBar Steuerelement.dll
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\bin\Debug\net7.0-windows\StatusBar Steuerelement.pdb
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement_MarkupCompile.cache
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement_MarkupCompile.lref
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.g.resources
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.AssemblyInfoInputs.cache
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.AssemblyInfo.cs
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.dll
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\refint\StatusBar Steuerelement.dll
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.pdb
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\StatusBar Steuerelement.genruntimeconfig.cache
+D:\sandbox\WPF\StatusBar Steuerelement\StatusBar Steuerelement\obj\Debug\net7.0-windows\ref\StatusBar Steuerelement.dll
