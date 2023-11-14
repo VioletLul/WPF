@@ -1,0 +1,25 @@
+﻿<Window x:Class="ValidationRules.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:validationRules="clr-namespace:ValidationRules"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <validationRules:ErrorsToMessageConverter x:Key="ErrorsToMessageConverter" />
+    </Window.Resources>
+    
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBox x:Name="TxtMessage" Width="200" Height="25">
+                        <TextBox.Text>
+                            <Binding Path="Message" UpdateSourceTrigger="PropertyChanged">
+                                <Binding.ValidationRules>
+                                    <validationRules:NoEmptyStringValidator />
+                                </Binding.ValidationRules>
+                            </Binding>
+                        </TextBox.Text>
+                    </TextBox>
+            <TextBlock Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=TxtMessage, Path=(Validation.Errors), Converter={StaticResource ErrorsToMessageConverter}}" />
+        </StackPanel>
+
+    </Grid>
+</Window>
