@@ -1,0 +1,30 @@
+﻿<Window x:Class="ErrorTemplates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:errorTemplates="clr-namespace:ErrorTemplates"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <errorTemplates:ErrorsToMessageConverter x:Key="ErrorsToMessageConverter" />
+        <ControlTemplate x:Key="ErrorTemplate">
+            <DockPanel>
+                
+                <AdornedElementPlaceholder x:Name="AdornedElement"></AdornedElementPlaceholder>
+                
+                <TextBlock Margin="2" Foreground="Red" FontWeight="Bold" Text="{Binding ElementName=TxtMessage, Path=AdornedElement.(Validation.Errors), Converter={StaticResource ErrorsToMessageConverter}}" />
+            </DockPanel>
+        </ControlTemplate>
+    </Window.Resources>
+    
+<Grid>
+    <TextBox x:Name="TxtMessage" Width="200" Height="25"  Validation.ErrorTemplate="{StaticResource ErrorTemplate}">
+        <TextBox.Text>
+            <Binding Path="Message" UpdateSourceTrigger="PropertyChanged">
+                <Binding.ValidationRules>
+                    <errorTemplates:NoEmptyStringValidator />
+                </Binding.ValidationRules>
+            </Binding>
+        </TextBox.Text>
+    </TextBox>
+        
+</Grid>
+</Window>
