@@ -1,0 +1,33 @@
+﻿<Window x:Class="VisualStates.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    
+    <Grid>
+        <TextBox x:Name="TbText" Width="200" Height="25" MouseEnter="TbText_MouseEnter" MouseLeave="TbText_MouseEnter">
+            <VisualStateManager.VisualStateGroups>
+                <VisualStateGroup Name="CommonStates">
+                    <VisualState Name="Normal" />
+                    <VisualState Name="MouseOver">
+                        <Storyboard>
+                            <ColorAnimation To="Lavender" Storyboard.TargetName="TbBrush" Storyboard.TargetProperty="Color" />
+                        </Storyboard>
+                    </VisualState>
+                    <VisualStateGroup.Transitions>
+                        <VisualTransition To="Normal" GeneratedDuration="00:00:00" />
+                        
+                        <VisualTransition To="MouseOver" GeneratedDuration="00:00:00.5">
+                            <VisualTransition.GeneratedEasingFunction>
+                                <ExponentialEase EasingMode="EaseOut" Exponent="10" />
+                            </VisualTransition.GeneratedEasingFunction>
+                        </VisualTransition>
+                    </VisualStateGroup.Transitions>
+                </VisualStateGroup>
+            </VisualStateManager.VisualStateGroups>
+                
+            <TextBox.Background>
+                <SolidColorBrush x:Name="TbBrush" />
+            </TextBox.Background>
+        </TextBox>
+    </Grid>
+</Window>

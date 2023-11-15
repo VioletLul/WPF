@@ -1,0 +1,51 @@
+﻿<Window x:Class="Trigger_mit_Animation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style x:Key="myListBoxItemStyle" TargetType="ListBoxItem">
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsMouseOver" Value="True" />
+                        <Condition Property="IsSelected" Value="True" />
+                    </MultiTrigger.Conditions>
+                    <Setter Property="FontSize" Value="18" />
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="myListBoxStyle" TargetType="ListBox">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Trigger.EnterActions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation Storyboard.TargetProperty="Background.Color" To="LavenderBlush" Duration="0:0:3" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.EnterActions>
+                    <Trigger.ExitActions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation Storyboard.TargetProperty="Background.Color" Duration="0:0:3" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.ExitActions>
+                </Trigger>
+            </Style.Triggers>
+            <Setter Property="Width" Value="200" />
+            <Setter Property="Height" Value="200" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Background" Value="Transparent" />
+        </Style>
+    </Window.Resources>
+    <Grid Background="Lavender">
+        <ListBox Style="{StaticResource myListBoxStyle}">
+            <ListBoxItem Style="{StaticResource myListBoxItemStyle}">Item 1</ListBoxItem>
+            <ListBoxItem Style="{StaticResource myListBoxItemStyle}">Item 2</ListBoxItem>
+            <ListBoxItem Style="{StaticResource myListBoxItemStyle}">Item 3</ListBoxItem>
+            <ListBoxItem Style="{StaticResource myListBoxItemStyle}">Item 4</ListBoxItem>
+            <ListBoxItem Style="{StaticResource myListBoxItemStyle}">Item 5</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\bin\Debug\net7.0-windows\Trigger mit Animation.exe
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\bin\Debug\net7.0-windows\Trigger mit Animation.deps.json
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\bin\Debug\net7.0-windows\Trigger mit Animation.runtimeconfig.json
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\bin\Debug\net7.0-windows\Trigger mit Animation.dll
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\bin\Debug\net7.0-windows\Trigger mit Animation.pdb
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\MainWindow.baml
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\App.g.cs
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation_MarkupCompile.cache
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.g.resources
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.AssemblyInfoInputs.cache
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.AssemblyInfo.cs
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.csproj.CoreCompileInputs.cache
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.dll
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\refint\Trigger mit Animation.dll
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.pdb
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\Trigger mit Animation.genruntimeconfig.cache
+D:\sandbox\WPF\Trigger mit Animation\Trigger mit Animation\obj\Debug\net7.0-windows\ref\Trigger mit Animation.dll
