@@ -1,0 +1,21 @@
+﻿<Window x:Class="ValidatesOnDataErrors.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:validatesOnDataErrors="clr-namespace:ValidatesOnDataErrors"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <validatesOnDataErrors:Person x:Key="Person" />
+        
+        <Style TargetType="{x:Type TextBox}">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip" Value="{Binding RelativeSource={RelativeSource Self}, Path=(Validation.Errors)[0].ErrorContent}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <TextBox Width="200" Height="25" Text="{Binding Source={StaticResource Person}, Path=Name, ValidatesOnDataErrors=True, UpdateSourceTrigger=PropertyChanged}" />
+    </Grid>
+</Window>
